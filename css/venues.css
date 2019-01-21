@@ -32,7 +32,7 @@
 }
 
 .nav li a {
-  
+
   font-size: 1.5em;
   color: white;
   display: block;
@@ -161,6 +161,17 @@ div.desc {
   list-style-position: inside;
 }
 
+.about-txt {
+  padding-top: 170px;
+  padding-left: 8%;
+  width: 800px;
+}
+
+.about-txt p {
+  color: white;
+  font-size: 1.25em;
+}
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (min-width: 200px) and (max-width: 374px) {
   .page-wrap {
@@ -242,6 +253,17 @@ div.desc {
     font-size: 1.5em;
     text-align: center;
 
+  }
+
+  .mabout-txt {
+    padding-top: 25px;
+    padding-bottom: 90px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .mabout-txt p {
+    color: white;
   }
 
   .martwork {
@@ -426,6 +448,17 @@ div.desc {
 
   }
 
+  .mabout-txt {
+    padding-top: 25px;
+    padding-bottom: 90px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .mabout-txt p {
+    color: white;
+  }
+
   .martwork {
     padding-top: 50px;
     text-align: center;
@@ -601,6 +634,17 @@ div.desc {
 
   }
 
+  .mabout-txt {
+    padding-top: 25px;
+    padding-bottom: 90px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .mabout-txt p {
+    color: white;
+  }
+
   .martwork {
     padding-top: 50px;
     text-align: center;
@@ -717,6 +761,17 @@ div.desc {
     font-size: 1.5em;
     text-align: center;
 
+  }
+
+  .mabout-txt {
+    padding-top: 25px;
+    padding-bottom: 90px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .mabout-txt p {
+    color: white;
   }
 
   .martwork {
