@@ -83,6 +83,18 @@
   }
 }
 
+@media only screen and (max-width: 450px) {
+  .venue-body h1 {
+    font-size: 8.5pt;
+    padding-right: 5px;
+    line-height: 1.5;
+  }
+
+  #more-btn {
+    font-size: 9pt;
+  }
+}
+
 @media only screen and (max-width: 400px) {
   .img-venue {
     width: 100px;
